@@ -1,0 +1,10 @@
+# Required libraries in python
+
+1- numpy as np
+2- pandas as pd
+3- seaborn as sns
+4- seaborn as sns
+5- matplotlib as mpl
+6- matplotlib.pyplot as plt
+7- labeEncoder 
+8- scikit-learn
